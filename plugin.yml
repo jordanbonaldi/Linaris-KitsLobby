@@ -1,0 +1,7 @@
+name: LinarisKitsLobby
+version: 0.1
+main: net.neferett.LinarisKits.lobby.LinarisKitsLobby
+depend: [LinarisKits]
+author: Neferett
+commands:
+  shop:
